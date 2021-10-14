@@ -8,7 +8,7 @@ Original Project: https://www.youtube.com/watch?v=61eX0bFAsYs
 Pygame Documentation: https://www.pygame.org/docs/
 
 
-In short, this is a very fun, interesting and knowledgable project, the explanation was very clear
+In short, this is a very fun, interesting and knowledgable project, the explanation was very clear. It is a very good experience for me to get in touch with so many things related to pygame which i didn't have the opportunity to try it before this.
 
 
 Main menu of the game and the page after you have used up your chances 
