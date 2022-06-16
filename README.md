@@ -1,5 +1,5 @@
 # Space-Escape
-Extra Project - Clone of existed project online - Pygame Space Escape
+Extra Project - Pygame Space Escape
 
 Space Escape is a 2D game in which a spaceship will travel across an asteroid field using pygame as the main framework. The player has the mission of control the space ship and avoid any danger that can impact the spaceship, specifically, need to avoid and shoot the incoming meteorite and survive as long as the user can (by default, I have set the chances of the player to be 3). There will also be some power-ups dropped when you destroyed the meteorite. For now, this game have 2 different power-ups, which is to increase the bullets of the spaceship, and another one is to repair the damaged spaceship.
 
